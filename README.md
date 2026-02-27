@@ -1,6 +1,6 @@
 # 🧮 SciCalc Pro — Advanced Scientific Calculator
 
-**Live Demo: https://replit.com/@fulaaron47/Science-Calc-Pro
+**Live Demo:https://science-calc-pro.replit.app
 
 ---
 
@@ -35,7 +35,7 @@ fingertips — right from their browser. No downloads. No installs. Just results
 
 ## 🌐 Live App
 
-👉 Try it here →  https://replit.com/@fulaaron47/Science-Calc-Pro
+👉 Try it here → https://science-calc-pro.replit.app
 
 ---
 
